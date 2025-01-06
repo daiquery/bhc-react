@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/bhc-react/static/css/main.1cd2d9f5.css",
+    "main.js": "/bhc-react/static/js/main.6e3ec048.js",
+    "static/js/488.4ab01e3e.chunk.js": "/bhc-react/static/js/488.4ab01e3e.chunk.js",
+    "static/media/volcano.jpg": "/bhc-react/static/media/volcano.230800f9fb13a106e8c0.jpg",
+    "static/media/hot-slider.jpg": "/bhc-react/static/media/hot-slider.b70c40402ea658f4ff6b.jpg",
+    "static/media/waffle-fries.jpg": "/bhc-react/static/media/waffle-fries.86d63e34d868766a291c.jpg",
+    "static/media/tenders.jpg": "/bhc-react/static/media/tenders.119c9055f960312c301e.jpg",
+    "static/media/onion-rings.jpg": "/bhc-react/static/media/onion-rings.4244503d39d9819b6feb.jpg",
+    "static/media/loaded-fries.jpg": "/bhc-react/static/media/loaded-fries.58910a854293c8b73c31.jpg",
+    "static/media/bigbad.jpg": "/bhc-react/static/media/bigbad.f50e0eef65ce90e695b2.jpg",
+    "static/media/chickenwrap.jpg": "/bhc-react/static/media/chickenwrap.05f0b64e28bf6810d5c0.jpg",
+    "static/media/cheesticks.jpg": "/bhc-react/static/media/cheesticks.e988f418a6e89d5b1ddd.jpg",
+    "static/media/two-sliders.jpg": "/bhc-react/static/media/two-sliders.16945c142b99c981c6e6.jpg",
+    "static/media/food1.jpg": "/bhc-react/static/media/food1.57b51bdd64f6e796df3a.jpg",
+    "static/media/banana-pudding.jpg": "/bhc-react/static/media/banana-pudding.30abfc2e7398bab4425f.jpg",
+    "static/media/food3.jpg": "/bhc-react/static/media/food3.dc9f4290808578b49512.jpg",
+    "static/media/food2.jpg": "/bhc-react/static/media/food2.2dfbc813799f1bb0113b.jpg",
+    "static/media/mac.jpg": "/bhc-react/static/media/mac.494a0c985b6081095cc8.jpg",
+    "static/media/double-slider.jpg": "/bhc-react/static/media/double-slider.03c87789fd80b06c6659.jpg",
+    "static/media/bhc-bg.png": "/bhc-react/static/media/bhc-bg.ec9e08a7079f29033047.png",
+    "static/media/sweet-potato.jpg": "/bhc-react/static/media/sweet-potato.d3d098b10894129b8ae3.jpg",
+    "static/media/fries.jpg": "/bhc-react/static/media/fries.00a7279a2b65c92f3c8a.jpg",
+    "static/media/bhc-stand.png": "/bhc-react/static/media/bhc-stand.80ea8f8c60ef24801074.png",
+    "static/media/bhc-logo.png": "/bhc-react/static/media/bhc-logo.1db6ecd36ae9fd6fa4f1.png",
+    "index.html": "/bhc-react/index.html",
+    "main.1cd2d9f5.css.map": "/bhc-react/static/css/main.1cd2d9f5.css.map",
+    "main.6e3ec048.js.map": "/bhc-react/static/js/main.6e3ec048.js.map",
+    "488.4ab01e3e.chunk.js.map": "/bhc-react/static/js/488.4ab01e3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cd2d9f5.css",
+    "static/js/main.6e3ec048.js"
+  ]
+}
