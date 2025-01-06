@@ -10,7 +10,7 @@ library.add(fab);
 
 
 const App = () => (
-  <Router>
+  <Router basename='/bhc-react'>
     <Routes>
       <Route path="/" element={<HomePage />} />
       <Route path="/menu" element={<MenuPage />} />
