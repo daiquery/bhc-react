@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bhc-react/static/css/main.1cd2d9f5.css",
-    "main.js": "/bhc-react/static/js/main.005afc32.js",
+    "main.js": "/bhc-react/static/js/main.5883ee7b.js",
     "static/js/488.4ab01e3e.chunk.js": "/bhc-react/static/js/488.4ab01e3e.chunk.js",
     "static/media/volcano.jpg": "/bhc-react/static/media/volcano.230800f9fb13a106e8c0.jpg",
     "static/media/hot-slider.jpg": "/bhc-react/static/media/hot-slider.b70c40402ea658f4ff6b.jpg",
@@ -26,11 +26,11 @@
     "static/media/bhc-logo.png": "/bhc-react/static/media/bhc-logo.1db6ecd36ae9fd6fa4f1.png",
     "index.html": "/bhc-react/index.html",
     "main.1cd2d9f5.css.map": "/bhc-react/static/css/main.1cd2d9f5.css.map",
-    "main.005afc32.js.map": "/bhc-react/static/js/main.005afc32.js.map",
+    "main.5883ee7b.js.map": "/bhc-react/static/js/main.5883ee7b.js.map",
     "488.4ab01e3e.chunk.js.map": "/bhc-react/static/js/488.4ab01e3e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1cd2d9f5.css",
-    "static/js/main.005afc32.js"
+    "static/js/main.5883ee7b.js"
   ]
 }
