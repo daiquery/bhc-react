@@ -1,7 +1,7 @@
 {
   "name": "bhc-react",
   "version": "0.1.0",
-  "homepage": "https://daiquery.github.io/bhc-react",
+  "homepage": "http://daiquery.github.io/bhc-react",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
