@@ -10,7 +10,7 @@ library.add(fab);
 
 
 const App = () => (
-  <Router basename='/bhc-react'>
+  <Router basename={`${process.env.PUBLIC_URL}`}>
     <Routes>
       <Route path="/" element={<HomePage />} />
       <Route path="/menu" element={<MenuPage />} />
